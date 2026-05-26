@@ -55,7 +55,6 @@ Non è ideologia open source. È **buon senso applicato al lavoro vero.**
 | **[CSVXpressGold](https://github.com/pezzaliapp/CSVXPressGold)** | Industria 4.0, kit abbinati, noleggio operativo. [→ Live](https://www.alessandropezzali.it/CSVXPressGold/) |
 | **[CSVXpressPlus](https://github.com/pezzaliapp/CSVxpressPlus)** | 148 commit, MIT, doppio sconto e preventivi PDF. |
 | **[CheckappExcel](https://github.com/pezzaliapp/CheckappExcel)** | Confronto file Excel/CSV listini per codice → Excel colorato. Web + Python CLI/GUI. ⭐ Pinned |
-| **[PezzaliStack](https://github.com/PezzaliStack)** | L'organizzazione GitHub dei miei strumenti commerciali ragionati: listini, dati, preventivi, **payload** e oltre. Selezione curata, non collezione di prove. |
 
 ### 🛰️ Spazio & scienza
 
@@ -75,6 +74,18 @@ Non è ideologia open source. È **buon senso applicato al lavoro vero.**
 | **[AI Backoffice Agent](https://www.alessandropezzali.it/ai-backoffice-agent-demo/)** | Demo di un flusso AI con CRM, ticket, preventivi e analisi. |
 | **[MyDeviceGuard](https://github.com/pezzaliapp/MyDeviceGuard)** | Sicurezza dispositivo e protezione digitale quotidiana. ⭐ Pinned |
 | **[PezzaliGuard](https://www.alessandropezzali.it/pezzaliguard/)** | Database personale numeri spam, blacklist/whitelist privacy-first. |
+
+### 🔐 Cybersecurity & awareness — [PezzaliStack](https://github.com/PezzaliStack)
+
+Un'**organizzazione GitHub** dedicata. Non strumenti commerciali — qui si lavora su sicurezza digitale, password awareness, simulazioni di attacco didattiche. Costruite per insegnare, non per impressionare.
+
+| Progetto | Cosa fa |
+|----------|---------|
+| **[pentest-awareness-suite](https://github.com/PezzaliStack/pentest-awareness-suite)** | Suite di moduli per la consapevolezza in sicurezza informatica: Password Reality Check, calcolo robustezza (leet, pattern deboli, ripetizioni, dizionario), simulazione attacco animata, gate di consenso obbligatorio. |
+| **[mythos-lab](https://github.com/PezzaliStack/mythos-lab)** | Laboratorio per scardinare i miti più comuni sulla sicurezza digitale. |
+| **[PayLoad](https://github.com/PezzaliStack)** | Progetto interno all'organizzazione PezzaliStack. |
+
+Filosofia: la sicurezza non è un prodotto da vendere, è una **consapevolezza da costruire**. Le password "inattaccabili" non esistono, e dirlo è già un buon inizio.
 
 ### 🎵 Musica & audio nel browser
 
