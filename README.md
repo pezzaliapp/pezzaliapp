@@ -1,72 +1,141 @@
 <h1 align="center">Alessandro Pezzali</h1>
 <p align="center">
-  <strong>Sviluppatore · Musicista · Fotografo · AI Builder</strong><br>
-  25 anni nel settore automotive · Codice open source · AI applicata al lavoro vero
+  <strong>Sviluppatore · Musicista · Fotografo · AI Builder</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.pezzaliapp.com/"><img src="https://img.shields.io/badge/🌐_Sito_Hub-pezzaliapp.com-00b894?style=for-the-badge" alt="pezzaliapp.com"></a>
+  <a href="https://www.pezzaliapp.com/"><img src="https://img.shields.io/badge/🌐_Chi_sono-pezzaliapp.com-00b894?style=for-the-badge" alt="pezzaliapp.com"></a>
   <a href="https://pezzalihub.app/"><img src="https://img.shields.io/badge/📱_77_App-pezzalihub.app-0984e3?style=for-the-badge" alt="pezzalihub.app"></a>
-  <a href="https://www.alessandropezzali.it/"><img src="https://img.shields.io/badge/🚀_Live_Apps-alessandropezzali.it-ff2b2b?style=for-the-badge" alt="alessandropezzali.it"></a>
+  <a href="https://www.alessandropezzali.it/"><img src="https://img.shields.io/badge/🚀_Live-alessandropezzali.it-ff2b2b?style=for-the-badge" alt="alessandropezzali.it"></a>
 </p>
 
 ---
 
-## 👋 Ciao
+## Perché esisto qui
 
-Costruisco strumenti che riducono attrito, accelerano decisioni e trasformano idee in sistemi utilizzabili. Le mie app sono **PWA**: niente install pesanti, niente backend complessi, dati che restano sul dispositivo.
+I gestionali costano cinquantamila euro l'anno. I CRM enterprise vogliono i tuoi dati sui loro server. Le app aziendali sono pesanti, lente, e ti legano per sempre a chi te le ha vendute.
 
-Le 295 repository su questo profilo non sono "esercizi". Sono **strumenti che uso o che ho costruito per risolvere problemi reali** — miei o dei miei clienti nel settore automotive, officina, vendita.
+Io ho passato venticinque anni nel settore automotive. Ho visto agenti che la sera, dopo cena, ricopiavano i listini Excel a mano. Ho visto officine fare preventivi su carta intestata. Ho visto fornitori mandare promozioni via email a ottanta rivenditori — e metà non le leggeva.
 
-## 🎯 Cosa puoi trovare qui
+**Allora ho cominciato a costruire.**
 
-- 💼 **Strumenti commerciali** — preventivi, listini, sconti, CRM (ListoAPP, CSVXpress, Sales Canvas)
-- 🛠️ **Officina & tecnico** — configuratori, gestione attrezzature, sollevatori
-- 🤖 **AI applicata** — assistenti, agent, automazione backoffice
-- 🎵 **Audio & musica** — drum machine, DJ tools, synth nel browser
-- 🛰️ **Spazio & scienza** — orbite satelliti, dati NASA/ESA real-time
-- 🎮 **Giochi PWA** — arcade classici riportati nel browser
+Non grandi software. **Strumenti.** Uno per problema. Privacy by design. Aperti. Gratuiti. Veloci.
 
-## 📌 Progetti in evidenza
+PWA che si installano dal browser senza store. Codice che gira in locale. Dati che non escono dal dispositivo di chi li usa. Zero abbonamenti. Zero vendor lock-in.
 
-| Progetto | Cosa fa | Live |
-|----------|---------|------|
-| [ListoAPP](https://github.com/pezzaliapp/ListoAPP) | Preventivi PWA con foto prodotto, promo dal fornitore, dati in locale | [Apri](https://www.alessandropezzali.it/ListoAPP/) |
-| [CheckappExcel](https://github.com/pezzaliapp/CheckappExcel) | Confronto file Excel/CSV per codice → Excel colorato (web + Python) | — |
-| [CubeSat Constellation](https://github.com/pezzaliapp/CubeSat_Constellation) | Visualizzazione 3D orbite satelliti con TLE Celestrak | — |
-| [DrumAPP](https://github.com/pezzaliapp/DrumAPP) | Drum machine browser-first | [Apri](https://www.alessandropezzali.it/DrumAPP/) |
-| [djappR1](https://github.com/pezzaliapp/djappR1) | Ambiente DJ leggero nel browser | [Apri](https://www.alessandropezzali.it/djappR1/) |
-| [MyDeviceGuard](https://github.com/pezzaliapp/MyDeviceGuard) | Sicurezza dispositivo, protezione digitale quotidiana | [Apri](https://www.alessandropezzali.it/MyDeviceGuard/) |
+In tre anni sono diventate **295 repository su GitHub**, **77 app navigabili** dal browser, **un ecosistema** che si chiama PezzaliAPP.
 
-## 🛠️ Stack & approccio
+E continua a crescere ogni settimana.
+
+---
+
+## Il vecchio mondo e il nuovo
+
+|   | Vecchio mondo | Quello che costruisco |
+|---|---------------|----------------------|
+| **Costo** | Migliaia di euro l'anno | Zero. Sempre. |
+| **Dati** | Sui server del fornitore | Sul tuo dispositivo |
+| **Velocità di adozione** | Mesi di onboarding | 5 minuti dal browser |
+| **Personalizzazione** | "Apriamo un ticket" | Forka e modifica |
+| **Continuità** | Se il fornitore chiude, finisce tutto | Il codice resta tuo per sempre |
+| **Installazione** | Setup IT, licenze, account | Apri il link, aggiungi a home |
+
+Non è ideologia open source. È **buon senso applicato al lavoro vero.**
+
+---
+
+## I progetti che contano
+
+### 💼 Strumenti commerciali
+
+| Progetto | Cosa risolve |
+|----------|--------------|
+| **[ListoAPP](https://github.com/pezzaliapp/ListoAPP)** | Preventivi PWA con foto prodotto. Il fornitore pubblica le promo, il rivenditore tiene listino e prezzi in locale. Nessuno vede i tuoi margini. [→ Live](https://www.alessandropezzali.it/ListoAPP/) |
+| **[CSVXpressSmart](https://github.com/pezzaliapp/CSVXpressSmart)** | Listino CSV trasformato in offerta chiara con sconti, margini, trasporto, installazione. [→ Live](https://www.alessandropezzali.it/CSVXpressSmart/) |
+| **[CSVXpressGold](https://github.com/pezzaliapp/CSVXPressGold)** | Industria 4.0, kit abbinati, noleggio operativo. [→ Live](https://www.alessandropezzali.it/CSVXPressGold/) |
+| **[CSVXpressPlus](https://github.com/pezzaliapp/CSVxpressPlus)** | 148 commit, MIT, doppio sconto e preventivi PDF. |
+| **[CheckappExcel](https://github.com/pezzaliapp/CheckappExcel)** | Confronto file Excel/CSV listini per codice → Excel colorato. Web + Python CLI/GUI. ⭐ Pinned |
+| **[PezzaliStack](https://github.com/PezzaliStack)** | L'organizzazione GitHub dei miei strumenti commerciali ragionati: listini, dati, preventivi, **payload** e oltre. Selezione curata, non collezione di prove. |
+
+### 🛰️ Spazio & scienza
+
+| Progetto | Cosa fa |
+|----------|---------|
+| **[CubeSat Constellation](https://github.com/pezzaliapp/CubeSat_Constellation)** | Visualizzazione 3D delle costellazioni satellitari. Catalogo TLE da Celestrak, propagazione orbitale SGP4/SDP4, motore CesiumJS dentro una PWA. La Terra vista dallo spazio, in tempo reale, dal browser. ⭐ Pinned |
+| **[MeteorWatch](https://github.com/pezzaliapp/MeteorWatch)** | Aggregatore dati NASA, JPL, ESA, CelesTrak: asteroidi NEO, bolidi, sciami meteorici, rientri, ISS. [→ Live](https://www.alessandropezzali.it/MeteorWatch/) |
+| **[EarthRadar](https://github.com/pezzaliapp/EarthRadar)** | La Terra dallo spazio in tempo reale. Tutto ciò che si muove sopra e sotto la superficie. |
+| **[OTO Dipole Lab](https://www.alessandropezzali.it/OTO-Waves/)** | Visualizzazione didattica della radiazione di dipolo elettromagnetico (E, B, S). |
+
+### 🤖 AI applicata al lavoro vero
+
+| Progetto | Cosa fa |
+|----------|---------|
+| **[GommistaPro Assistant](https://gommistapro-assistant.alessandropezzali.it/)** | Assistente AI per officine gommisti: supporto tecnico e ricerca rapida. |
+| **[TechAssist-AI-by-PezzaliApp](https://github.com/pezzaliapp/TechAssist-AI-by-PezzaliApp)** | Assistente tecnico AI per il backoffice. |
+| **[AI Backoffice Agent](https://www.alessandropezzali.it/ai-backoffice-agent-demo/)** | Demo di un flusso AI con CRM, ticket, preventivi e analisi. |
+| **[MyDeviceGuard](https://github.com/pezzaliapp/MyDeviceGuard)** | Sicurezza dispositivo e protezione digitale quotidiana. ⭐ Pinned |
+| **[PezzaliGuard](https://www.alessandropezzali.it/pezzaliguard/)** | Database personale numeri spam, blacklist/whitelist privacy-first. |
+
+### 🎵 Musica & audio nel browser
+
+| Progetto | Cosa fa |
+|----------|---------|
+| **[DrumAPP](https://github.com/pezzaliapp/DrumAPP)** | Drum machine browser-first per ritmi e loop. ⭐ Pinned · [→ Live](https://www.alessandropezzali.it/DrumAPP/) |
+| **[djappR1](https://github.com/pezzaliapp/djappR1)** | Ambiente DJ leggero per mixare set. ⭐ Pinned · [→ Live](https://www.alessandropezzali.it/djappR1/) |
+| **[Poly8 / Moog Muse](https://www.alessandropezzali.it/moog-muse/)** | Synth polifonico 8 voci, pad e texture analogiche. |
+| **[Officina dei Venti](https://www.alessandropezzali.it/OFFICINA-DEI-VENTI/)** | Atelier sonoro degli otto venti italiani. Audio sintetizzato real-time. |
+| **[CreaApp](https://www.alessandropezzali.it/CreaApp/)** | Arpeggiatore genetico: otto creature musicali che si incrociano e mutano. |
+
+### 🎮 Giochi PWA
+
+PAC-MAN, Galaga, Defender, Frogger, Triton Wars — gli arcade classici riportati nel browser. Più [4 app native su App Store](https://apps.apple.com/it/developer/alessandro-pezzali/id1846598728): Snake, Easy Price, Tire Tread Scanner, Sudoku.
+
+---
+
+## Filosofia tecnica
 
 `JavaScript vanilla` · `PWA` · `HTML5` · `CSS` · `Web Audio API` · `PDF.js` · `Cesium 3D` · `Python` · `Claude API`
 
-**Filosofia:** niente framework pesanti, niente build complessi, niente vendor lock-in. Single-file quando possibile, codice leggibile, privacy by design.
+**Niente framework pesanti.** React, Vue, Angular fanno il loro lavoro ma per quello che costruisco io sono zavorra.
 
-## 🌐 Le mie case online
+**Niente build complessi.** Webpack, Vite, bundler vari. Apri index.html e funziona.
 
-- 🏠 **[pezzaliapp.com](https://www.pezzaliapp.com/)** — chi sono, manifesto, pubblicazioni, contatti
-- 📱 **[pezzalihub.app](https://pezzalihub.app/)** — catalogo navigabile delle 77 app web
-- 🚀 **[alessandropezzali.it](https://www.alessandropezzali.it/)** — dove girano live le app
-- 🐙 **[github.com/pezzaliapp](https://github.com/pezzaliapp)** — qui dentro
+**Niente vendor lock-in.** Tutto sotto MIT. Tutto forkable. Tutto tuo se vuoi farlo tuo.
 
-## 🎵 Anche musica, libri, fotografia
+**Privacy by design.** I dati commerciali, i listini, i prezzi, i clienti — restano sul dispositivo di chi li gestisce. Mai sui miei server. Mai sul cloud di qualcun altro.
 
-- 🎧 Musica: [Spotify](https://open.spotify.com/intl-it/artist/71OBBr3T3CiWyekyoMPGFj) · [Apple Music](https://music.apple.com/it/artist/pezzaliapp/1850089898) · [YouTube](https://youtube.com/@pezzaliapp)
-- 📚 Libri: [Amazon](https://www.amazon.it/dp/B0F7GDSCCQ) · [Lulu.com](https://www.lulu.com/spotlight/alessandro_pezzali)
-- 📸 Fotografia: mostre Margutta 2023, Florentia 2024
+---
 
-## 📬 Mi trovi qui
+## Le mie tre case
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pezzaliapp-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pezzaliapp/)
-[![Instagram](https://img.shields.io/badge/Instagram-ale__pezzali-C13584?logo=instagram&logoColor=white)](https://www.instagram.com/ale_pezzali/)
-[![YouTube](https://img.shields.io/badge/YouTube-pezzaliapp-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@pezzaliapp)
-[![Email](https://img.shields.io/badge/Email-scrivimi-00b894?logo=gmail&logoColor=white)](mailto:pezzalialessandro@gmail.com)
+- 🏠 **[pezzaliapp.com](https://www.pezzaliapp.com/)** — chi sono, il manifesto, le pubblicazioni, i contatti
+- 📱 **[pezzalihub.app](https://pezzalihub.app/)** — catalogo navigabile delle 77 app, design Apple-style, single-file PWA installabile
+- 🚀 **[alessandropezzali.it](https://www.alessandropezzali.it/)** — dove girano live le app, dominio brandizzato
+
+Ognuna ha un ruolo preciso. Niente doppioni.
+
+---
+
+## Anche musica, libri, fotografia
+
+Non sono solo codice. Il codice è uno dei modi con cui scrivo.
+
+- 🎧 **Musica:** [Spotify](https://open.spotify.com/intl-it/artist/71OBBr3T3CiWyekyoMPGFj) · [Apple Music](https://music.apple.com/it/artist/pezzaliapp/1850089898) · [Amazon Music](https://music.amazon.it/artists/B0FYXBYN68) · [YouTube](https://youtube.com/@pezzaliapp)
+- 📚 **Libri:** *L'Ultimo sulla Scena* (Il Quarto Attore, narrativa noir) su [Amazon](https://www.amazon.it/dp/B0F7GDSCCQ) · *CRM PWA — La Bibbia del Venditore* (parti I e II) su [Lulu](https://www.lulu.com/spotlight/alessandro_pezzali)
+- 📸 **Fotografia:** mostre Margutta 2023, Florentia 2024
+
+---
+
+## Mi trovi qui
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pezzaliapp-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pezzaliapp/)
+[![Instagram](https://img.shields.io/badge/Instagram-ale__pezzali-C13584?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ale_pezzali/)
+[![YouTube](https://img.shields.io/badge/YouTube-pezzaliapp-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@pezzaliapp)
+[![Email](https://img.shields.io/badge/Email-scrivimi-00b894?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pezzalialessandro@gmail.com)
 
 ---
 
 <p align="center">
-  <i>"Se cerchi un profilo lineare, probabilmente non sono io.<br>
-  Se cerchi una visione che unisca tecnica, creatività e costruzione concreta, allora sì."</i>
+  <i>Se cerchi un profilo lineare, probabilmente non sono io.<br>
+  Se cerchi una visione che unisca tecnica, creatività e costruzione concreta, allora sì.</i>
 </p>
