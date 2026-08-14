@@ -23,7 +23,7 @@ Non grandi software. **Strumenti.** Uno per problema. Privacy by design. Aperti.
 
 PWA che si installano dal browser senza store. Codice che gira in locale. Dati che non escono dal dispositivo di chi li usa. Zero abbonamenti. Zero vendor lock-in.
 
-In tre anni sono diventate **295 repository su GitHub**, **77 app navigabili** dal browser, **un ecosistema** che si chiama PezzaliAPP.
+In tre anni sono diventate **oltre 300 repository pubbliche su GitHub**, **77 app navigabili** dal browser, **un ecosistema** che si chiama PezzaliAPP.
 
 E continua a crescere ogni settimana.
 
@@ -46,7 +46,19 @@ Non è ideologia open source. È **buon senso applicato al lavoro vero.**
 
 ## I progetti che contano
 
-### 💼 Strumenti commerciali
+### 📊 Excel & analisi dati
+
+Confronto listini, recupero file, formule, DAX. Tutto client-side: i tuoi dati non lasciano mai il browser.
+
+| Progetto | Cosa risolve |
+|----------|--------------|
+| **[CheckappExcel](https://github.com/pezzaliapp/CheckappExcel)** | Confronto file Excel/CSV listini per codice → Excel colorato. Web + Python CLI/GUI. ⭐ Pinned |
+| **[ExcelCFR](https://github.com/pezzaliapp/ExcelCFR)** | CERCA.VERT tra listini Excel/CSV, PWA 100% client-side. |
+| **[Excel-DAX-Power-BI-Helper](https://github.com/pezzaliapp/Excel-DAX-Power-BI-Helper)** | Strumenti avanzati per utenti Excel, DAX e Power BI: produttività e attività complesse semplificate. |
+| **[RecuperaExcel](https://github.com/pezzaliapp/RecuperaExcel)** | Recupero e ripristino di file Excel danneggiati o problematici. |
+| **[XCompare](https://github.com/pezzaliapp/XCompare)** | Confronto rapido tra due colonne Excel. |
+
+### 💼 Gestione Listini & preventivi
 
 | Progetto | Cosa risolve |
 |----------|--------------|
@@ -54,28 +66,32 @@ Non è ideologia open source. È **buon senso applicato al lavoro vero.**
 | **[CSVXpressSmart](https://github.com/pezzaliapp/CSVXpressSmart)** | Listino CSV trasformato in offerta chiara con sconti, margini, trasporto, installazione. [→ Live](https://www.alessandropezzali.it/CSVXpressSmart/) |
 | **[CSVXpressGold](https://github.com/pezzaliapp/CSVXPressGold)** | Industria 4.0, kit abbinati, noleggio operativo. [→ Live](https://www.alessandropezzali.it/CSVXPressGold/) |
 | **[CSVXpressPlus](https://github.com/pezzaliapp/CSVxpressPlus)** | 148 commit, MIT, doppio sconto e preventivi PDF. |
-| **[CheckappExcel](https://github.com/pezzaliapp/CheckappExcel)** | Confronto file Excel/CSV listini per codice → Excel colorato. Web + Python CLI/GUI. ⭐ Pinned |
+| **[ListinoSecure](https://github.com/pezzaliapp/ListinoSecure)** | Listino Excel protetto: consultazione sicura senza esporre i dati sensibili. |
+| **[PriceXpress](https://github.com/pezzaliapp/PriceXpress)** | Calcolatore del prezzo di vendita: margini e ricarichi senza fogli di calcolo improvvisati. |
 
-### 🛰️ Spazio & scienza
+### 🛰️ Fisica, spazio & scienza
 
 | Progetto | Cosa fa |
 |----------|---------|
 | **[CubeSat Constellation](https://github.com/pezzaliapp/CubeSat_Constellation)** | Visualizzazione 3D delle costellazioni satellitari. Catalogo TLE da Celestrak, propagazione orbitale SGP4/SDP4, motore CesiumJS dentro una PWA. La Terra vista dallo spazio, in tempo reale, dal browser. ⭐ Pinned |
 | **[MeteorWatch](https://github.com/pezzaliapp/MeteorWatch)** | Aggregatore dati NASA, JPL, ESA, CelesTrak: asteroidi NEO, bolidi, sciami meteorici, rientri, ISS. [→ Live](https://www.alessandropezzali.it/MeteorWatch/) |
 | **[EarthRadar](https://github.com/pezzaliapp/EarthRadar)** | La Terra dallo spazio in tempo reale. Tutto ciò che si muove sopra e sotto la superficie. |
-| **[OTO Dipole Lab](https://www.alessandropezzali.it/OTO-Waves/)** | Visualizzazione didattica della radiazione di dipolo elettromagnetico (E, B, S). |
+| **[OTO Dipole Lab](https://github.com/pezzaliapp/OTO-Waves)** | Visualizzazione didattica della radiazione di dipolo elettromagnetico (E, B, S). [→ Live](https://www.alessandropezzali.it/OTO-Waves/) |
+| **[SpazioTempo](https://github.com/pezzaliapp/SpazioTempo)** | Simulazione visiva e interattiva dello spaziotempo: una griglia elastica deformata dalla massa, alla Einstein. |
+| **[HiggsFieldSim](https://github.com/pezzaliapp/HiggsFieldSim)** | Simulazione didattica del campo di Higgs e del suo bosone. |
 
-### 🤖 AI applicata al lavoro vero
+### 🧩 Altro
+
+#### 🤖 AI applicata al lavoro vero
 
 | Progetto | Cosa fa |
 |----------|---------|
-| **[GommistaPro Assistant](https://gommistapro-assistant.alessandropezzali.it/)** | Assistente AI per officine gommisti: supporto tecnico e ricerca rapida. |
-| **[TechAssist-AI-by-PezzaliApp](https://github.com/pezzaliapp/TechAssist-AI-by-PezzaliApp)** | Assistente tecnico AI per il backoffice. |
+| **[GommistaPro Assistant](https://github.com/pezzaliapp/GommistaPro-Assistant)** | Assistente AI per officine gommisti: supporto tecnico e ricerca rapida. [→ Live](https://gommistapro-assistant.alessandropezzali.it/) |
 | **[AI Backoffice Agent](https://www.alessandropezzali.it/ai-backoffice-agent-demo/)** | Demo di un flusso AI con CRM, ticket, preventivi e analisi. |
 | **[MyDeviceGuard](https://github.com/pezzaliapp/MyDeviceGuard)** | Sicurezza dispositivo e protezione digitale quotidiana. ⭐ Pinned |
 | **[PezzaliGuard](https://www.alessandropezzali.it/pezzaliguard/)** | Database personale numeri spam, blacklist/whitelist privacy-first. |
 
-### 🔐 Cybersecurity & awareness — [PezzaliStack](https://github.com/PezzaliStack)
+#### 🔐 Cybersecurity & awareness — [PezzaliStack](https://github.com/PezzaliStack)
 
 Un'**organizzazione GitHub** dedicata. Non strumenti commerciali — qui si lavora su sicurezza digitale, password awareness, simulazioni di attacco didattiche. Costruite per insegnare, non per impressionare.
 
@@ -83,21 +99,20 @@ Un'**organizzazione GitHub** dedicata. Non strumenti commerciali — qui si lavo
 |----------|---------|
 | **[pentest-awareness-suite](https://github.com/PezzaliStack/pentest-awareness-suite)** | Suite di moduli per la consapevolezza in sicurezza informatica: Password Reality Check, calcolo robustezza (leet, pattern deboli, ripetizioni, dizionario), simulazione attacco animata, gate di consenso obbligatorio. |
 | **[mythos-lab](https://github.com/PezzaliStack/mythos-lab)** | Laboratorio per scardinare i miti più comuni sulla sicurezza digitale. |
-| **[PayLoad](https://github.com/PezzaliStack)** | Progetto interno all'organizzazione PezzaliStack. |
 
 Filosofia: la sicurezza non è un prodotto da vendere, è una **consapevolezza da costruire**. Le password "inattaccabili" non esistono, e dirlo è già un buon inizio.
 
-### 🎵 Musica & audio nel browser
+#### 🎵 Musica & audio nel browser
 
 | Progetto | Cosa fa |
 |----------|---------|
 | **[DrumAPP](https://github.com/pezzaliapp/DrumAPP)** | Drum machine browser-first per ritmi e loop. ⭐ Pinned · [→ Live](https://www.alessandropezzali.it/DrumAPP/) |
 | **[djappR1](https://github.com/pezzaliapp/djappR1)** | Ambiente DJ leggero per mixare set. ⭐ Pinned · [→ Live](https://www.alessandropezzali.it/djappR1/) |
 | **[Poly8 / Moog Muse](https://www.alessandropezzali.it/moog-muse/)** | Synth polifonico 8 voci, pad e texture analogiche. |
-| **[Officina dei Venti](https://www.alessandropezzali.it/OFFICINA-DEI-VENTI/)** | Atelier sonoro degli otto venti italiani. Audio sintetizzato real-time. |
-| **[CreaApp](https://www.alessandropezzali.it/CreaApp/)** | Arpeggiatore genetico: otto creature musicali che si incrociano e mutano. |
+| **[Officina dei Venti](https://github.com/pezzaliapp/OFFICINA-DEI-VENTI)** | Atelier sonoro degli otto venti italiani. Audio sintetizzato real-time. [→ Live](https://www.alessandropezzali.it/OFFICINA-DEI-VENTI/) |
+| **[CreaApp](https://github.com/pezzaliapp/CreaApp)** | Arpeggiatore genetico: otto creature musicali che si incrociano e mutano. [→ Live](https://www.alessandropezzali.it/CreaApp/) |
 
-### 🎮 Giochi PWA
+#### 🎮 Giochi PWA
 
 PAC-MAN, Galaga, Defender, Frogger, Triton Wars — gli arcade classici riportati nel browser. Più [4 app native su App Store](https://apps.apple.com/it/developer/alessandro-pezzali/id1846598728): Snake, Easy Price, Tire Tread Scanner, Sudoku.
 
