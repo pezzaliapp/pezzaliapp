@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.pezzaliapp.com/"><img src="https://img.shields.io/badge/🗺️_100%2B_App-pezzaliapp.com-00b894?style=for-the-badge" alt="pezzaliapp.com"></a>
-  <a href="https://pezzalihub.app/"><img src="https://img.shields.io/badge/📡_Live_territorio-pezzalihub.app-0984e3?style=for-the-badge" alt="pezzalihub.app"></a>
-  <a href="https://www.alessandropezzali.it/"><img src="https://img.shields.io/badge/🚀_Laboratorio-alessandropezzali.it-ff2b2b?style=for-the-badge" alt="alessandropezzali.it"></a>
+  <a href="https://www.pezzaliapp.com/"><img src="https://img.shields.io/badge/🌐_Chi_sono-pezzaliapp.com-00b894?style=for-the-badge" alt="pezzaliapp.com"></a>
+  <a href="https://pezzalihub.app/"><img src="https://img.shields.io/badge/📱_100%2B_App-pezzalihub.app-0984e3?style=for-the-badge" alt="pezzalihub.app"></a>
+  <a href="https://www.alessandropezzali.it/"><img src="https://img.shields.io/badge/🚀_Live-alessandropezzali.it-ff2b2b?style=for-the-badge" alt="alessandropezzali.it"></a>
 </p>
 
 ---
@@ -150,9 +150,9 @@ Più [9 app native su App Store](https://apps.apple.com/it/developer/alessandro-
 
 ## Le mie tre case
 
-- 🗺️ **[pezzaliapp.com](https://www.pezzaliapp.com/)** — la mappa dell'ecosistema: oltre 100 app ordinate per mondo, più chi sono, le pubblicazioni e i contatti
-- 📡 **[pezzalihub.app](https://pezzalihub.app/)** — il territorio in tempo reale: meteo, strada, cielo e sensori (NEXUM, NOWCAST, ROAD SENSE, ATMOSPHERA)
-- 🚀 **[alessandropezzali.it](https://www.alessandropezzali.it/)** — il laboratorio: dove girano live le app, con il catalogo dei progetti
+- 🏠 **[pezzaliapp.com](https://www.pezzaliapp.com/)** — chi sono, il manifesto, la mappa dell'ecosistema, le pubblicazioni, i contatti
+- 📱 **[pezzalihub.app](https://pezzalihub.app/)** — catalogo navigabile delle oltre 100 app, design Apple-style, single-file PWA installabile
+- 🚀 **[alessandropezzali.it](https://www.alessandropezzali.it/)** — dove girano live le app, dominio brandizzato
 
 Ognuna ha un ruolo preciso. Niente doppioni.
 
